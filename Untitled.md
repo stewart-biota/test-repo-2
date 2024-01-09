@@ -3,7 +3,9 @@ Getting started with Github in RStudio
 Stewart Ford
 2024-01-09
 
-\##Overview
+# Let’s git going
+
+## Overview
 
 There are two steps here for the new user, firstly getting comfortable
 with git itself, then Github, what the differences are, and why they are
@@ -15,9 +17,11 @@ should have RStudio linked to your Github account, and be able to push
 and pull commits from Github within RStudio - but let’s not get ahead of
 ourselves here.
 
-\##First step - wtf is git/github
+## First step - wtf is git/github
 
 Watch this video:
+
+## Second step - connecting R and git
 
 ## R Markdown
 
