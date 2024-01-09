@@ -19,7 +19,7 @@ The second is more technical and it's understanding how to apply the git and git
 
 ##First step - wtf is git/github
 
-
+Watch this video: 
 
 ## R Markdown
 
